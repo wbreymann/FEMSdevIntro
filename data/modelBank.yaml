@@ -1,0 +1,25 @@
+|2
+
+  name: modelBank
+  Assets:
+    Current:
+       actusCIDs:
+          - pam001
+          - pam002
+          - ann003
+    ShortTerm:
+       actusCIDs:
+          - pam004
+          - ann005
+    Longterm:
+      formulaCIDs:
+          - edf006
+  Liabilities:
+    Debt:
+      actusCIDs:
+        - pam007
+    Equity:
+  Operations:
+    Cashflows:
+     functionIDs:
+        - ocf008

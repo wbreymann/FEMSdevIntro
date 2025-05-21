@@ -1,0 +1,27 @@
+|2
+
+  name: Powerplant Accounts
+  Assets:
+    Current:
+       actusCIDs:
+          - pam001
+          - pam002
+          - ann003
+    ShortTerm:
+       actusCIDs:
+          - pam004
+          - ann005
+       formulaCIDs:
+          - frm006
+    Longterm:
+  Liabilities:
+    Deposits:
+    LongTermDebt:
+    Equity:
+  Operations:
+    Revenues:
+    Expenses:
+      maintanance:
+         actusCIDs:
+            - pam007
+        

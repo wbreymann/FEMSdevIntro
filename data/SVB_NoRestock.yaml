@@ -1,0 +1,42 @@
+|2
+
+  name: modelBank
+  Assets:
+    Current:
+       actusCIDs:
+          - ACash1
+          - AAFS1
+          - AHTM1
+    ShortTerm:
+       actusCIDs:
+          - AAFS2
+          - AAFS3
+          - AAFS4
+          - AHTM2
+          - AHTM3
+          - AHTM4
+          - AHTM5
+    LongTerm:
+      actusCIDs:
+          - ANM1
+          - ALoans1
+          - AOA1
+    Fixed:
+      actusCIDs:
+          - APE1
+          - AGW1
+          - AOI1
+          - ALease1
+  Liabilities:
+    ShortTerm:
+      actusCIDs:
+        - LDemand1
+        - LDeposit1
+        - AStB1
+    LongTerm:
+      actusCIDs:
+        - ALtD1
+        - LOL1
+        - LLease1
+    Equity:
+  Operations:
